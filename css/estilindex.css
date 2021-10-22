@@ -1,0 +1,664 @@
+*{
+    box-sizing: border-box;
+}
+
+html,body{
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    overflow-x: hidden;
+    padding: 1px;
+    background-color: rgb(190, 226, 233);
+}
+
+body {
+	font-size: 1vw;
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+
+
+.intime{
+    margin: 0 auto;
+    text-align: center;
+    font-size: 150%;
+    border-radius: 5px;
+    width: 250px;
+    color: rgb(3, 145, 170);
+}
+
+.argument{
+    border-radius: 5px;
+    margin-bottom: 30px;
+    padding-left: 5px;
+    padding-bottom: 5px;
+    background-color: rgb(224, 248, 252);
+}
+
+.personatges{
+    border-radius: 5px;
+    margin-bottom: 25px;
+}
+
+.Justin{
+    width: 175px;
+    float: left;
+    margin-left: 15px;
+    margin-right: 15px;
+}
+
+.Olivia{
+    width: 175px;
+    float: left;
+    margin-left: 15px;
+    margin-right: 15px;
+}
+
+.Shyloh{
+    width: 175px;
+    float: left;
+    margin-left: 15px;
+    margin-right: 15px;
+}
+
+.Johnny{
+    width: 175px;
+    float: left;
+    margin-left: 15px;
+    margin-right: 15px;
+}
+
+.Will{
+    width: 175px;
+    float: left;
+    margin-left: 15px;
+    margin-right: 15px;
+}
+
+.Michael{
+    width: 165px;
+    float: left;
+    margin-left: 15px;
+    margin-right: 15px;
+}
+
+.Jesse{
+    width: 175px;
+    float: left;
+    margin-left: 15px;
+    margin-right: 15px;
+}
+
+.Nick{
+    width: 175px;
+    float: left;
+    margin-left: 15px;
+    margin-right: 15px;
+}
+
+.Peltz{
+    width: 165px;
+    float: left;
+    margin-left: 15px;
+    margin-right: 15px;
+}
+
+.Ray{
+    width: 175px;
+    float: left;
+    margin-left: 15px;
+    margin-right: 15px;
+}
+
+.Matt{
+    width: 165px;
+    float: left;
+    margin-left: 15px;
+    margin-right: 15px;
+}
+
+
+.titol{
+    margin-left: 15px;
+}
+
+.Dadesgenerals{
+    border-radius: 5px;
+    background-color: rgb(224, 248, 252);
+    width: 300px;
+    height: 437px;
+    float: left;
+    margin-left: 15px;
+    margin-right: 40px;
+}
+
+.indexactors{
+    text-decoration: none;
+    background-color: rgb(224, 248, 252);
+    border-radius: 5px;
+    width: 300px;
+    height: 437px;
+    float: left;
+    margin-right: 40px;
+}
+
+.Dadescinemes{
+    background-color: rgb(224, 248, 252);
+    border-radius: 5px;
+    width: 300px;
+    height: 437px;
+    float: left;
+    margin-right: 40px
+}
+
+.taula{
+    float: left;
+    width: 300px;
+    height: 437px;
+    background-color: rgb(224, 248, 252);
+}
+
+.taula1{
+    width: 300px;
+    height: 437px;
+    background-color: rgb(224, 248, 252);
+}
+
+
+
+
+
+
+.Timberlake{
+    width: 659px;
+    height: 315px;
+    float: left;
+    border-radius: 5px;
+    background-color: rgb(224, 248, 252);
+    margin: 5px;
+}
+
+.Wilde{
+    width: 659px;
+    height: 315px;
+    float: left;
+    border-radius: 5px;
+    background-color: rgb(224, 248, 252);
+    margin: 5px;
+}
+
+.Oostwald{
+    width: 659px;
+    height: 315px;
+    float: left;
+    border-radius: 5px;
+    background-color: rgb(224, 248, 252);
+    margin: 5px;
+}
+
+.Galecki{
+    width: 659px;
+    height: 315px;
+    float: left;
+    border-radius: 5px;
+    background-color: rgb(224, 248, 252);
+    margin: 5px;
+}
+
+.Harris{
+    width: 659px;
+    height: 315px;
+    float: left;
+    border-radius: 5px;
+    background-color: rgb(224, 248, 252);
+    margin: 5px;
+}
+
+.William{
+    width: 659px;
+    height: 315px;
+    float: left;
+    border-radius: 5px;
+    background-color: rgb(224, 248, 252);
+    margin: 5px;
+}
+
+.Lee{
+    width: 659px;
+    height: 315px;
+    float: left;
+    border-radius: 5px;
+    background-color: rgb(224, 248, 252);
+    margin: 5px;
+}
+
+.Lashaway{
+    width: 659px;
+    height: 315px;
+    float: left;
+    border-radius: 5px;
+    background-color: rgb(224, 248, 252);
+    margin: 5px;
+}
+
+.Peltzz{
+    width: 659px;
+    height: 315px;
+    float: left;
+    border-radius: 5px;
+    background-color: rgb(224, 248, 252);
+    margin: 5px;
+}
+
+.Santiago{
+    width: 659px;
+    height: 315px;
+    float: left;
+    border-radius: 5px;
+    background-color: rgb(224, 248, 252);
+    margin: 5px;
+}
+
+.Bomer{
+    width: 659px;
+    height: 315px;
+    float: left;
+    border-radius: 5px;
+    background-color: rgb(224, 248, 252);
+    margin: 5px;
+}
+
+
+table, tr, td, th{
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+
+.menu{
+    width: 1339px;
+    height: 60px;
+    border-radius: 10px;
+    margin-bottom: 8px;
+}
+
+.navegador{
+    display: inline-block;
+    padding: 10px;
+}
+
+.menu1{
+    width: 1366px;
+    height: 60px;
+    
+}
+
+
+
+.Inici{
+    width: 150px;
+    height: 40px;
+    display: grid;
+    align-items: center;
+    justify-content: center;
+    margin-right: 10px;
+    background-color: rgb(224, 248, 252);
+    border-radius: 5px;
+    text-decoration:none;
+}
+
+.Actors{
+    width: 150px;
+    height: 40px;
+    display: grid;
+    align-items: center;
+    justify-content: center;
+    margin-right: 10px;
+    background-color: rgb(224, 248, 252);
+    border-radius: 5px;
+    text-decoration:none;
+}
+
+.Cinemes{
+    width: 150px;
+    height: 40px;
+    display: grid;
+    align-items: center;
+    justify-content: center;
+    margin-right: 10px;
+    background-color: rgb(224, 248, 252);
+    border-radius: 5px;
+    text-decoration:none;
+}
+
+.Fotografies{
+    width: 150px;
+    height: 40px;
+    display: grid;
+    align-items: center;
+    justify-content: center;
+    margin-right: 10px;
+    background-color: rgb(224, 248, 252);
+    border-radius: 5px;
+    text-decoration:none;
+}
+
+.Opinio{
+    width: 150px;
+    height: 40px;
+    display: grid;
+    align-items: center;
+    justify-content: center;
+    margin-right: 10px;
+    background-color: rgb(224, 248, 252);
+    border-radius: 5px;
+    text-decoration:none;
+}
+
+.Links{
+    width: 150px;
+    height: 40px;
+    display: grid;
+    align-items: center;
+    justify-content: center;
+    margin-right: 10px;
+    background-color: rgb(224, 248, 252);
+    border-radius: 5px;
+    text-decoration:none;
+}
+
+.Critica{
+    width: 150px;
+    height: 40px;
+    display: grid;
+    align-items: center;
+    justify-content: center;
+    background-color: rgb(224, 248, 252);
+    border-radius: 5px;
+    text-decoration:none;
+}
+
+
+
+
+
+.Justin1{
+    width: 615px;
+}
+
+.Olivia1{
+    width: 615px;
+}
+
+.Shyloh1{
+    width: 615px;
+}
+
+.Johnny1{
+    width: 615px;
+}
+
+.Will1{
+    width: 615px;
+}
+
+.Michael1{
+    width: 615px;
+}
+
+.Jesse1{
+    width: 615px;
+}
+
+.Nick1{
+    width: 615px;
+}
+
+.Peltz1{
+    width: 615px;
+}
+
+.Ray1{
+    width: 615px;
+}
+
+.Matt1{
+    width: 615px;
+}
+
+
+
+.net1{
+    display: inline-block;
+    height: 450px;
+}
+
+.personatges{
+    display: inline-block;
+}
+
+.fotografies{
+    display: inline-block;
+}
+
+.Escena2{
+    width: 1039px;
+    height: 450px;
+}
+
+.Escena9{
+    width: 300px;
+    height: 450px;
+}
+
+.Escena4{
+    width: 650px;
+    height: 445px;
+}
+
+.Escena6{
+    width: 689px;
+    height: 445px;
+}
+
+.Escena5{
+    width: 693px;
+    height: 431px;
+}
+
+.Escena10{
+    width: 461px;
+    height: 325px;
+}
+
+.Escena8{
+    width: 772px;
+    height: 362px;
+}
+
+.Escena7{
+    width: 567px;
+    height: 362px;
+}
+
+
+
+
+
+.trailer{
+    text-align: center;
+}
+
+.enllafora{
+    display: inline-block;
+    text-align: center;
+    margin-top: 30px;
+}
+
+.enlla{
+    height: 122px;
+    width: 387px;
+    border-radius: 8px;
+}
+
+.enlla1{
+    float: left;
+    margin-right: 25px;
+}
+
+.enlla2{
+    float: left;
+    margin-right: 25px;
+}
+
+.enlla3{
+    float: left;
+}
+
+.Film{
+    width: 100px;
+    height: 40px;
+    display: grid;
+    align-items: center;
+    justify-content: center;
+    margin-right: 22px;
+    background-color: rgb(224, 248, 252);
+    border-radius: 5px;
+    text-decoration:none;
+    margin: 5px;
+    font-weight: bold;
+}
+
+.Wiki{
+    width: 100px;
+    height: 40px;
+    display: grid;
+    align-items: center;
+    justify-content: center;
+    margin-right: 22px;
+    background-color: rgb(224, 248, 252);
+    border-radius: 5px;
+    text-decoration:none;
+    margin: 5px;
+    font-weight: bold;
+}
+
+.Net{
+    width: 100px;
+    height: 40px;
+    display: grid;
+    align-items: center;
+    justify-content: center;
+    margin-right: 22px;
+    background-color: rgb(224, 248, 252);
+    border-radius: 5px;
+    text-decoration:none;
+    margin: 5px;
+    font-weight: bold;
+}
+
+.Imdb{
+    width: 100px;
+    height: 40px;
+    display: grid;
+    align-items: center;
+    justify-content: center;
+    margin-right: 22px;
+    background-color: rgb(224, 248, 252);
+    border-radius: 5px;
+    text-decoration:none;
+    margin: 5px;
+    font-weight: bold;
+}
+
+.Sensa{
+    width: 100px;
+    height: 40px;
+    display: grid;
+    align-items: center;
+    justify-content: center;
+    background-color: rgb(224, 248, 252);
+    border-radius: 5px;
+    text-decoration:none;
+    margin: 5px;
+    font-weight: bold;
+}
+
+.Carte{
+    width: 100px;
+    height: 40px;
+    display: grid;
+    align-items: center;
+    justify-content: center;
+    background-color: rgb(224, 248, 252);
+    border-radius: 5px;
+    text-decoration:none;
+    margin: 5px;
+    font-weight: bold;
+}
+
+
+.critica{
+    border-radius: 8px;
+    width: 800px;
+    float: left;
+    margin-right: 40px;
+    margin-left: 40px;
+    text-align: center;
+    margin-top: 30px;
+    background-color: rgb(224, 248, 252);
+}
+
+dt{
+    font-weight: bold;
+}
+
+label{
+    display: inline-block;
+    width: 120px;
+
+}
+label, input{
+    margin-top: 6px;
+}
+
+
+.un{
+    float: left;
+}
+
+.dos{
+   float: left;
+   margin-left: 40px;
+}
+
+.caixadades{
+    margin-top: 80px;
+    border-radius: 8px;
+}
+
+.dades{
+    background-color: rgb(224, 248, 252);
+}
+
+#Opinio{
+    width: 650px;
+    height: 90px;
+    margin-left: 55px;
+}
+
+#enviar{
+    width: 71.85px;
+    height: 25.71px;
+}
+
+
+.per{
+    text-align: center;
+    font-size: 30px;
+}
+
+.foto{
+    text-align: center;
+    font-size: 30px;
+}
